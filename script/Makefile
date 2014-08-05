@@ -11,12 +11,8 @@ ERLC_OPTS += +warn_unused_vars +warn_export_all +warn_shadow_vars +warn_unused_i
 ERLC_OPTS += +warn_bif_clash +warn_unused_record +warn_deprecated_function +warn_obsolete_guard +strict_validation
 ERLC_OPTS += +warn_export_vars +warn_exported_vars +warn_missing_spec +warn_untyped_record +debug_info
 
-# Builds the elvis escript.
-escript: app
-	rebar escriptize
-
 shell: app
-	erl -pa ebin -pa deps/*/ebin -s sync -s elvis -s lager
+	erl -pa ebin -pa deps/*/ebin -s sync -s elvis -s lager -config config/app.config
 
 run: app
-	erl -pa ebin -pa deps/*/ebin -s inaka_github -noshell
+	erl -pa ebin -pa deps/*/ebin -s inaka_github -noshell -config config/app.config
