@@ -1,0 +1,14 @@
+//- index.jade
+doctype html
+html
+  include ./includes/head.jade
+  body#page-top(data-spy="scroll" data-target=".navbar-custom")
+    include ./includes/header.jade
+    div.container
+      section.information
+        h2
+          | The following is a list of all our open source projects.
+      section#projects
+        h1 Projects
+          ul
+            include ./includes/projects.jade
