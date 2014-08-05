@@ -19,6 +19,7 @@ Main = {
             var item = template.clone();
             var langClass = Main.toClass(project.language);
             item.find('.name').html(project.name);
+            item.find('.authors').html(project.authors.join(', '));
             item.find('.desc').html(project.description);
             item.find('.lang').html(project.language);
             item.find('.github').attr('href', project.html_url);
