@@ -36,6 +36,7 @@ authors(Cred, Repo) ->
 
 process_repos(Cred, Repos) ->
     {ok, Ignored} = application:get_env(inaka_github, ignore),
+    {ok, Included} = application:get_env(inaka_github, include),
     Filter =
         fun (#{<<"name">> := Name,
                <<"full_name">> := FullName,
@@ -46,7 +47,11 @@ process_repos(Cred, Repos) ->
                   lists:member(NameStr, Ignored)
                   or
                   lists:member(FullNameStr, Ignored)
-                 ) and not Fork
+                 ) and (
+                     not Fork
+                     or
+                     lists:member(NameStr, Included)
+                    )
         end,
     Map = fun (Repo) -> authors(Cred, Repo) end,
 
