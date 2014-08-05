@@ -9,6 +9,8 @@ html
         h2
           | The following is a list of all our open source projects.
       section#projects
-        h1 Projects
-          ul
-            include ./includes/projects.jade
+        div#filters
+          span SHOW
+          a(href='#' data-lang='all') All
+        ul
+          include ./includes/projects.jade
