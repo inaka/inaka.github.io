@@ -1,0 +1,710 @@
+2014-08-05 16:05:39.019 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:05:39.022 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:05:39.023 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:05:39.023 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:05:51.262 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:05:53.650 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:05:55.417 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:05:57.269 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:06:53.616 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:06:53.619 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:06:53.619 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:06:53.620 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:06:58.644 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:07:02.995 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:07:05.918 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:07:08.981 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:07:36.395 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:07:36.398 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:07:36.398 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:09:20.895 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:09:20.897 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:09:20.897 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:10:39.515 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:10:39.518 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:10:39.518 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:12:09.910 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:12:09.912 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:12:09.912 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:12:58.127 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:13:24.741 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:13:24.743 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:13:24.743 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:13:24.743 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:13:31.748 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:13:35.251 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:13:35.254 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:13:35.254 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:13:35.254 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:13:48.491 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:13:52.663 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:13:54.606 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:13:56.302 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:14:17.440 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:14:17.442 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:14:17.443 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:14:17.443 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:14:31.058 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:14:35.329 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:14:40.342 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:14:44.238 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:16:07.459 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:16:07.462 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:16:07.462 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:16:07.462 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:16:15.198 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:16:19.250 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:16:23.078 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:16:26.730 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:16:30.034 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:17:28.335 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:17:28.337 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:17:28.338 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:17:28.338 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:17:33.965 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:17:38.078 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:17:41.913 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:17:45.674 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:17:48.622 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:17:50.015 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 16:17:50.547 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-erlang/contents/AUTHORS?ref=master
+2014-08-05 16:17:51.064 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 16:17:51.582 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 16:17:52.122 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rails_admin/contents/AUTHORS?ref=master
+2014-08-05 16:17:52.625 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 16:17:53.163 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak-erlang-http-client/contents/AUTHORS?ref=master
+2014-08-05 16:17:53.712 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak_err/contents/AUTHORS?ref=master
+2014-08-05 16:17:54.248 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 16:17:54.440 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ShareKit/contents/AUTHORS?ref=master
+2014-08-05 16:17:54.649 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 16:17:54.842 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_bridge/contents/AUTHORS?ref=master
+2014-08-05 16:17:55.063 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_record/contents/AUTHORS?ref=master
+2014-08-05 16:17:55.275 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/socketio/contents/AUTHORS?ref=master
+2014-08-05 16:17:55.472 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spawnedshelter/contents/AUTHORS?ref=master
+2014-08-05 16:17:55.673 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 16:17:55.868 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 16:17:56.063 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_rest/contents/AUTHORS?ref=master
+2014-08-05 16:17:56.253 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 16:17:56.458 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/syslog/contents/AUTHORS?ref=master
+2014-08-05 16:17:56.655 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/talks/contents/AUTHORS?ref=master
+2014-08-05 16:17:56.850 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/wctp-transient-client/contents/AUTHORS?ref=master
+2014-08-05 16:17:57.049 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/webmachine/contents/AUTHORS?ref=master
+2014-08-05 16:17:57.253 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/websocket_client/contents/AUTHORS?ref=master
+2014-08-05 16:17:57.451 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/worker_pool/contents/AUTHORS?ref=master
+2014-08-05 16:17:57.647 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ypnhot-ios/contents/AUTHORS?ref=master
+2014-08-05 16:17:57.838 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ypnhot-server/contents/AUTHORS?ref=master
+2014-08-05 16:17:58.036 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 16:17:58.229 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 16:17:58.428 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 16:17:58.624 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 16:17:58.816 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 16:17:59.017 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 16:17:59.209 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 16:17:59.402 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 16:17:59.612 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 16:17:59.813 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 16:18:00.013 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jobs/contents/AUTHORS?ref=master
+2014-08-05 16:18:00.211 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jsx/contents/AUTHORS?ref=master
+2014-08-05 16:18:00.723 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/kafkerl/contents/AUTHORS?ref=master
+2014-08-05 16:18:01.232 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager/contents/AUTHORS?ref=master
+2014-08-05 16:18:02.601 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_logstash_backend/contents/AUTHORS?ref=master
+2014-08-05 16:18:03.113 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_popcorn_backend/contents/AUTHORS?ref=master
+2014-08-05 16:18:04.640 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/large-hadron-migrator/contents/AUTHORS?ref=master
+2014-08-05 16:18:05.164 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 16:18:05.760 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lucene_server/contents/AUTHORS?ref=master
+2014-08-05 16:18:06.294 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 16:18:06.834 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/meck/contents/AUTHORS?ref=master
+2014-08-05 16:18:07.028 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/misultin/contents/AUTHORS?ref=master
+2014-08-05 16:18:07.263 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mochiweb/contents/AUTHORS?ref=master
+2014-08-05 16:18:07.465 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mongodb-erlang/contents/AUTHORS?ref=master
+2014-08-05 16:18:07.660 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mustache.erl/contents/AUTHORS?ref=master
+2014-08-05 16:18:07.860 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/node_timer_service/contents/AUTHORS?ref=master
+2014-08-05 16:18:08.055 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pcache/contents/AUTHORS?ref=master
+2014-08-05 16:18:08.251 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pong/contents/AUTHORS?ref=master
+2014-08-05 16:18:08.444 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/poolboy/contents/AUTHORS?ref=master
+2014-08-05 16:18:08.651 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/popcorn/contents/AUTHORS?ref=master
+2014-08-05 16:18:08.857 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-oauth/contents/AUTHORS?ref=master
+2014-08-05 16:18:09.077 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-ossp-uuid/contents/AUTHORS?ref=master
+2014-08-05 16:18:09.292 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 16:18:09.509 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 16:18:09.712 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlastic_search/contents/AUTHORS?ref=master
+2014-08-05 16:18:09.909 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlaws/contents/AUTHORS?ref=master
+2014-08-05 16:18:10.115 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlcloud/contents/AUTHORS?ref=master
+2014-08-05 16:18:10.318 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erldis/contents/AUTHORS?ref=master
+2014-08-05 16:18:10.542 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Erlualib/contents/AUTHORS?ref=master
+2014-08-05 16:18:10.750 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/estatsd/contents/AUTHORS?ref=master
+2014-08-05 16:18:11.285 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/exactor/contents/AUTHORS?ref=master
+2014-08-05 16:18:11.795 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ex_uri/contents/AUTHORS?ref=master
+2014-08-05 16:18:12.379 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fd_server/contents/AUTHORS?ref=master
+2014-08-05 16:18:12.596 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 16:18:12.789 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/find_rebar_deps/contents/AUTHORS?ref=master
+2014-08-05 16:18:12.991 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/folsom/contents/AUTHORS?ref=master
+2014-08-05 16:18:13.199 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/freckle_for_mac/contents/AUTHORS?ref=master
+2014-08-05 16:18:13.729 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fyp-ios/contents/AUTHORS?ref=master
+2014-08-05 16:18:14.262 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fyp-server/contents/AUTHORS?ref=master
+2014-08-05 16:18:14.452 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 16:18:14.669 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_httpd/contents/AUTHORS?ref=master
+2014-08-05 16:18:14.884 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_icmp/contents/AUTHORS?ref=master
+2014-08-05 16:18:15.085 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_server2/contents/AUTHORS?ref=master
+2014-08-05 16:18:15.285 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_smtp/contents/AUTHORS?ref=master
+2014-08-05 16:18:15.795 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_tcpd/contents/AUTHORS?ref=master
+2014-08-05 16:18:16.338 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/geocoder/contents/AUTHORS?ref=master
+2014-08-05 16:18:16.913 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/graphsom/contents/AUTHORS?ref=master
+2014-08-05 16:18:17.452 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibetyou-ios/contents/AUTHORS?ref=master
+2014-08-05 16:18:17.659 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibetyou-server/contents/AUTHORS?ref=master
+2014-08-05 16:18:17.851 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibrowse/contents/AUTHORS?ref=master
+2014-08-05 16:18:18.043 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/abnfc/contents/AUTHORS?ref=master
+2014-08-05 16:18:18.245 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/afamados-client/contents/AUTHORS?ref=master
+2014-08-05 16:18:18.439 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/afamados-server/contents/AUTHORS?ref=master
+2014-08-05 16:18:18.629 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/AFNetworking/contents/AUTHORS?ref=master
+2014-08-05 16:18:18.820 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/aleppo/contents/AUTHORS?ref=master
+2014-08-05 16:18:19.015 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 16:18:19.207 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/assisted_workflow/contents/AUTHORS?ref=master
+2014-08-05 16:18:19.424 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/boss_db/contents/AUTHORS?ref=master
+2014-08-05 16:18:19.622 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 16:18:19.814 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cherly/contents/AUTHORS?ref=master
+2014-08-05 16:18:20.021 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 16:18:20.213 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/colorful-friends-ios/contents/AUTHORS?ref=master
+2014-08-05 16:18:20.406 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/colorful-friends-server/contents/AUTHORS?ref=master
+2014-08-05 16:18:20.601 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/couchchanges/contents/AUTHORS?ref=master
+2014-08-05 16:18:20.805 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/covertool/contents/AUTHORS?ref=master
+2014-08-05 16:18:21.002 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cowboy/contents/AUTHORS?ref=master
+2014-08-05 16:18:21.198 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/dm-mnesia/contents/AUTHORS?ref=master
+2014-08-05 16:18:21.398 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 16:18:21.911 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 16:18:22.440 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 16:18:23.996 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/efps/contents/AUTHORS?ref=master
+2014-08-05 16:18:24.506 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 16:18:25.041 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eim/contents/AUTHORS?ref=master
+2014-08-05 16:18:25.244 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eleveldb/contents/AUTHORS?ref=master
+2014-08-05 16:18:25.456 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 16:18:25.655 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 16:18:25.850 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Emysql/contents/AUTHORS?ref=master
+2014-08-05 16:18:26.406 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eper/contents/AUTHORS?ref=master
+2014-08-05 16:18:26.963 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bcrypt/contents/AUTHORS?ref=master
+2014-08-05 16:18:27.486 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bookmarks/contents/AUTHORS?ref=master
+2014-08-05 16:22:58.499 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:22:58.501 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:22:58.501 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:22:58.501 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:23:07.077 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:23:10.535 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:23:13.901 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:23:16.810 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:23:19.752 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:23:20.288 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 16:23:20.789 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-erlang/contents/AUTHORS?ref=master
+2014-08-05 16:23:21.292 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 16:23:22.976 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 16:23:23.515 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rails_admin/contents/AUTHORS?ref=master
+2014-08-05 16:23:24.043 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 16:23:24.547 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak-erlang-http-client/contents/AUTHORS?ref=master
+2014-08-05 16:23:25.064 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak_err/contents/AUTHORS?ref=master
+2014-08-05 16:23:25.604 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 16:23:25.816 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ShareKit/contents/AUTHORS?ref=master
+2014-08-05 16:23:26.018 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 16:23:26.232 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_bridge/contents/AUTHORS?ref=master
+2014-08-05 16:23:26.443 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_record/contents/AUTHORS?ref=master
+2014-08-05 16:23:26.651 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/socketio/contents/AUTHORS?ref=master
+2014-08-05 16:23:27.572 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spawnedshelter/contents/AUTHORS?ref=master
+2014-08-05 16:23:27.782 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 16:23:28.675 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 16:23:28.877 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_rest/contents/AUTHORS?ref=master
+2014-08-05 16:23:29.496 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 16:23:29.703 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/syslog/contents/AUTHORS?ref=master
+2014-08-05 16:23:29.903 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/talks/contents/AUTHORS?ref=master
+2014-08-05 16:23:30.112 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/wctp-transient-client/contents/AUTHORS?ref=master
+2014-08-05 16:23:30.315 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/webmachine/contents/AUTHORS?ref=master
+2014-08-05 16:23:30.812 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/websocket_client/contents/AUTHORS?ref=master
+2014-08-05 16:23:31.310 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/worker_pool/contents/AUTHORS?ref=master
+2014-08-05 16:23:31.818 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ypnhot-ios/contents/AUTHORS?ref=master
+2014-08-05 16:23:32.830 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ypnhot-server/contents/AUTHORS?ref=master
+2014-08-05 16:23:33.910 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 16:23:34.455 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 16:23:34.962 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 16:23:35.480 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 16:23:35.980 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 16:23:36.496 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.025 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.225 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.420 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.612 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.807 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jobs/contents/AUTHORS?ref=master
+2014-08-05 16:23:37.999 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jsx/contents/AUTHORS?ref=master
+2014-08-05 16:23:38.193 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/kafkerl/contents/AUTHORS?ref=master
+2014-08-05 16:23:38.391 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager/contents/AUTHORS?ref=master
+2014-08-05 16:23:38.592 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_logstash_backend/contents/AUTHORS?ref=master
+2014-08-05 16:23:38.798 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_popcorn_backend/contents/AUTHORS?ref=master
+2014-08-05 16:23:39.001 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/large-hadron-migrator/contents/AUTHORS?ref=master
+2014-08-05 16:23:39.223 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 16:23:39.426 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lucene_server/contents/AUTHORS?ref=master
+2014-08-05 16:23:39.630 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 16:23:39.836 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/meck/contents/AUTHORS?ref=master
+2014-08-05 16:23:40.044 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/misultin/contents/AUTHORS?ref=master
+2014-08-05 16:23:40.254 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mochiweb/contents/AUTHORS?ref=master
+2014-08-05 16:23:40.477 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mongodb-erlang/contents/AUTHORS?ref=master
+2014-08-05 16:23:40.684 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mustache.erl/contents/AUTHORS?ref=master
+2014-08-05 16:23:40.895 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/node_timer_service/contents/AUTHORS?ref=master
+2014-08-05 16:23:41.399 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pcache/contents/AUTHORS?ref=master
+2014-08-05 16:23:41.928 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pong/contents/AUTHORS?ref=master
+2014-08-05 16:23:42.454 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/poolboy/contents/AUTHORS?ref=master
+2014-08-05 16:23:42.658 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/popcorn/contents/AUTHORS?ref=master
+2014-08-05 16:23:42.857 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-oauth/contents/AUTHORS?ref=master
+2014-08-05 16:23:43.062 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-ossp-uuid/contents/AUTHORS?ref=master
+2014-08-05 16:23:43.270 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 16:23:43.474 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 16:23:43.674 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlastic_search/contents/AUTHORS?ref=master
+2014-08-05 16:23:43.877 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlaws/contents/AUTHORS?ref=master
+2014-08-05 16:23:44.084 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlcloud/contents/AUTHORS?ref=master
+2014-08-05 16:23:44.318 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erldis/contents/AUTHORS?ref=master
+2014-08-05 16:23:44.523 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Erlualib/contents/AUTHORS?ref=master
+2014-08-05 16:23:45.020 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/estatsd/contents/AUTHORS?ref=master
+2014-08-05 16:23:45.519 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/exactor/contents/AUTHORS?ref=master
+2014-08-05 16:23:46.055 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ex_uri/contents/AUTHORS?ref=master
+2014-08-05 16:23:46.566 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fd_server/contents/AUTHORS?ref=master
+2014-08-05 16:23:48.110 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 16:23:48.768 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/find_rebar_deps/contents/AUTHORS?ref=master
+2014-08-05 16:23:48.973 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/folsom/contents/AUTHORS?ref=master
+2014-08-05 16:23:49.184 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/freckle_for_mac/contents/AUTHORS?ref=master
+2014-08-05 16:23:49.389 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fyp-ios/contents/AUTHORS?ref=master
+2014-08-05 16:23:49.593 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fyp-server/contents/AUTHORS?ref=master
+2014-08-05 16:23:49.797 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 16:23:50.631 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_httpd/contents/AUTHORS?ref=master
+2014-08-05 16:23:50.830 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_icmp/contents/AUTHORS?ref=master
+2014-08-05 16:23:51.051 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_server2/contents/AUTHORS?ref=master
+2014-08-05 16:23:51.253 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_smtp/contents/AUTHORS?ref=master
+2014-08-05 16:23:51.459 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_tcpd/contents/AUTHORS?ref=master
+2014-08-05 16:23:52.165 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/geocoder/contents/AUTHORS?ref=master
+2014-08-05 16:23:52.862 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/graphsom/contents/AUTHORS?ref=master
+2014-08-05 16:23:53.388 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibetyou-ios/contents/AUTHORS?ref=master
+2014-08-05 16:23:53.595 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibetyou-server/contents/AUTHORS?ref=master
+2014-08-05 16:23:53.799 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibrowse/contents/AUTHORS?ref=master
+2014-08-05 16:23:54.003 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/abnfc/contents/AUTHORS?ref=master
+2014-08-05 16:23:54.204 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/afamados-client/contents/AUTHORS?ref=master
+2014-08-05 16:23:54.408 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/afamados-server/contents/AUTHORS?ref=master
+2014-08-05 16:23:54.619 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/AFNetworking/contents/AUTHORS?ref=master
+2014-08-05 16:23:54.828 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/aleppo/contents/AUTHORS?ref=master
+2014-08-05 16:23:55.032 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 16:23:55.585 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/assisted_workflow/contents/AUTHORS?ref=master
+2014-08-05 16:23:56.085 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/boss_db/contents/AUTHORS?ref=master
+2014-08-05 16:23:56.629 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 16:23:57.138 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cherly/contents/AUTHORS?ref=master
+2014-08-05 16:23:57.342 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 16:23:58.304 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/colorful-friends-ios/contents/AUTHORS?ref=master
+2014-08-05 16:23:58.866 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/colorful-friends-server/contents/AUTHORS?ref=master
+2014-08-05 16:23:59.384 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/couchchanges/contents/AUTHORS?ref=master
+2014-08-05 16:23:59.588 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/covertool/contents/AUTHORS?ref=master
+2014-08-05 16:23:59.792 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cowboy/contents/AUTHORS?ref=master
+2014-08-05 16:24:00.169 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/dm-mnesia/contents/AUTHORS?ref=master
+2014-08-05 16:24:00.372 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 16:24:00.572 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 16:24:00.781 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 16:24:00.992 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/efps/contents/AUTHORS?ref=master
+2014-08-05 16:24:01.187 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 16:24:01.380 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eim/contents/AUTHORS?ref=master
+2014-08-05 16:24:01.580 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eleveldb/contents/AUTHORS?ref=master
+2014-08-05 16:24:01.779 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 16:24:01.989 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 16:24:03.276 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Emysql/contents/AUTHORS?ref=master
+2014-08-05 16:24:03.782 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eper/contents/AUTHORS?ref=master
+2014-08-05 16:24:04.311 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bcrypt/contents/AUTHORS?ref=master
+2014-08-05 16:24:04.820 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bookmarks/contents/AUTHORS?ref=master
+2014-08-05 16:37:00.934 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:37:00.936 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:37:00.937 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:37:00.937 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:37:06.801 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:37:09.212 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:37:11.171 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:37:13.029 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:37:15.018 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:37:15.529 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 16:37:16.066 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 16:37:16.634 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 16:37:17.165 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 16:37:17.698 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 16:37:18.218 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 16:37:18.731 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 16:37:18.934 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 16:37:19.138 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 16:37:19.345 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 16:37:19.554 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 16:37:19.760 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 16:37:19.963 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 16:37:20.169 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 16:37:20.377 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 16:37:20.592 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 16:37:20.795 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 16:37:21.002 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 16:37:21.204 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 16:37:21.406 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 16:37:21.621 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 16:37:21.826 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 16:37:22.040 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 16:37:22.552 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 16:37:22.758 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 16:37:22.974 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 16:37:23.183 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 16:37:23.401 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 16:37:23.616 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 16:37:23.826 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 16:37:24.342 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 16:37:24.569 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 16:37:24.787 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 16:37:24.994 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 16:41:49.487 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:41:49.489 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:41:49.489 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:41:49.489 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:41:57.890 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:42:01.319 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:42:04.253 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:42:09.117 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:42:11.967 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:42:12.467 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 16:42:13.916 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 16:42:14.589 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 16:42:15.089 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 16:42:15.613 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 16:42:16.144 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 16:42:16.666 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 16:42:17.211 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 16:42:17.721 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 16:42:17.910 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 16:42:18.105 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 16:42:18.295 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 16:42:18.485 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 16:42:18.688 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 16:42:18.883 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 16:42:19.077 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 16:42:19.269 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 16:42:19.459 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 16:42:19.660 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 16:42:19.857 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 16:42:20.055 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 16:42:20.260 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 16:42:20.461 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 16:42:20.655 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 16:42:20.849 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 16:42:21.041 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 16:42:21.236 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 16:42:21.430 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 16:42:21.630 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 16:42:21.822 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 16:42:22.015 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 16:42:22.220 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 16:42:22.431 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 16:42:22.644 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 16:52:48.588 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 16:52:48.590 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 16:52:48.591 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 16:52:48.591 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 16:52:56.162 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 16:52:59.394 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 16:53:02.646 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 16:53:05.591 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 16:53:08.299 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 16:53:08.795 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 16:53:09.292 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 16:53:09.805 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 16:53:10.447 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 16:53:10.951 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 16:53:11.448 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 16:53:11.954 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 16:53:12.494 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 16:53:12.708 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 16:53:12.914 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 16:53:13.127 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 16:53:13.339 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 16:53:13.554 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 16:53:13.760 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 16:53:13.973 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 16:53:14.175 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 16:53:14.382 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 16:53:14.590 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 16:53:14.804 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 16:53:15.024 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 16:53:15.228 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 16:53:15.431 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 16:53:15.639 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 16:53:15.845 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 16:53:16.048 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 16:53:16.262 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 16:53:16.467 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 16:53:16.973 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 16:53:17.181 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 16:53:17.387 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 16:53:17.595 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 16:53:17.808 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 16:53:18.023 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 16:53:18.219 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 17:13:12.185 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:13:12.187 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:13:12.187 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:13:12.188 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:13:18.334 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 17:13:21.918 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 17:13:27.562 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 17:13:30.730 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 17:13:34.364 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 17:13:34.878 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/HernanRivasAcosta/freckle_for_mac
+2014-08-05 17:13:35.542 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/flaviogranero/assisted_workflow
+2014-08-05 17:13:36.249 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/marcelog/find_rebar_deps
+2014-08-05 17:13:36.915 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/tigertext/lucene_server
+2014-08-05 17:13:37.585 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/unbalancedparentheses/spawnedshelter
+2014-08-05 17:13:38.327 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/tigertext/worker_pool
+2014-08-05 17:13:39.017 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 17:13:39.563 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 17:13:40.081 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 17:13:40.297 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 17:13:40.511 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 17:13:40.702 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 17:13:40.896 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 17:13:41.088 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 17:13:41.291 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 17:13:41.488 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 17:13:41.690 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 17:13:41.892 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 17:13:42.083 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 17:13:42.277 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 17:13:42.488 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 17:13:42.687 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 17:13:42.886 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 17:13:43.081 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 17:13:43.275 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 17:13:43.470 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 17:13:43.686 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 17:13:43.888 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 17:13:44.078 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 17:13:44.280 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 17:13:44.475 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 17:13:44.671 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 17:13:44.861 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 17:13:45.060 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 17:13:45.577 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 17:13:46.149 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 17:13:46.695 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 17:13:46.891 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 17:13:47.447 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 17:13:47.995 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 17:13:48.202 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/HernanRivasAcosta/freckle_for_mac/contents/AUTHORS?ref=master
+2014-08-05 17:13:48.735 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/flaviogranero/assisted_workflow/contents/AUTHORS?ref=master
+2014-08-05 17:13:48.927 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/marcelog/find_rebar_deps/contents/AUTHORS?ref=master
+2014-08-05 17:13:49.472 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/tigertext/lucene_server/contents/AUTHORS?ref=master
+2014-08-05 17:13:49.680 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/unbalancedparentheses/spawnedshelter/contents/AUTHORS?ref=master
+2014-08-05 17:13:50.209 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/tigertext/worker_pool/contents/AUTHORS?ref=master
+2014-08-05 17:24:06.494 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:24:06.498 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:24:06.498 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:24:06.498 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:24:30.086 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 17:24:33.101 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 17:24:35.551 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 17:24:38.049 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 17:26:48.492 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:26:48.494 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:26:48.494 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:26:48.495 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:26:55.853 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:26:55.855 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:26:55.855 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:26:55.855 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:27:00.754 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 17:27:05.330 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 17:27:08.895 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 17:27:12.585 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 17:27:15.399 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 17:27:16.815 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 17:27:17.509 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-erlang/contents/AUTHORS?ref=master
+2014-08-05 17:27:18.207 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 17:27:18.926 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 17:27:19.454 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rails_admin/contents/AUTHORS?ref=master
+2014-08-05 17:27:19.958 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 17:27:20.457 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak-erlang-http-client/contents/AUTHORS?ref=master
+2014-08-05 17:27:20.979 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/riak_err/contents/AUTHORS?ref=master
+2014-08-05 17:27:21.498 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 17:27:21.689 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ShareKit/contents/AUTHORS?ref=master
+2014-08-05 17:27:21.891 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 17:27:22.085 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_bridge/contents/AUTHORS?ref=master
+2014-08-05 17:27:22.276 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/simple_record/contents/AUTHORS?ref=master
+2014-08-05 17:27:22.479 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/socketio/contents/AUTHORS?ref=master
+2014-08-05 17:27:22.700 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spawnedshelter/contents/AUTHORS?ref=master
+2014-08-05 17:27:22.896 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 17:27:23.086 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 17:27:23.277 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 17:27:23.467 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/wctp-transient-client/contents/AUTHORS?ref=master
+2014-08-05 17:27:23.659 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/webmachine/contents/AUTHORS?ref=master
+2014-08-05 17:27:23.878 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/websocket_client/contents/AUTHORS?ref=master
+2014-08-05 17:27:24.082 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/worker_pool/contents/AUTHORS?ref=master
+2014-08-05 17:27:24.285 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 17:27:24.484 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 17:27:24.702 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 17:27:24.897 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 17:27:25.092 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 17:27:25.285 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 17:27:25.476 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 17:27:25.666 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 17:27:25.858 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 17:27:26.054 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 17:27:26.244 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jobs/contents/AUTHORS?ref=master
+2014-08-05 17:27:26.441 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jsx/contents/AUTHORS?ref=master
+2014-08-05 17:27:26.632 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/kafkerl/contents/AUTHORS?ref=master
+2014-08-05 17:27:26.833 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager/contents/AUTHORS?ref=master
+2014-08-05 17:27:27.336 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_logstash_backend/contents/AUTHORS?ref=master
+2014-08-05 17:27:27.530 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lager_popcorn_backend/contents/AUTHORS?ref=master
+2014-08-05 17:27:28.082 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/large-hadron-migrator/contents/AUTHORS?ref=master
+2014-08-05 17:27:28.281 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 17:27:28.783 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lucene_server/contents/AUTHORS?ref=master
+2014-08-05 17:27:28.981 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 17:27:29.482 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/meck/contents/AUTHORS?ref=master
+2014-08-05 17:27:29.985 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/misultin/contents/AUTHORS?ref=master
+2014-08-05 17:27:30.498 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mochiweb/contents/AUTHORS?ref=master
+2014-08-05 17:27:31.012 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mongodb-erlang/contents/AUTHORS?ref=master
+2014-08-05 17:27:31.518 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/mustache.erl/contents/AUTHORS?ref=master
+2014-08-05 17:27:32.031 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/node_timer_service/contents/AUTHORS?ref=master
+2014-08-05 17:27:32.223 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pcache/contents/AUTHORS?ref=master
+2014-08-05 17:27:32.420 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/poolboy/contents/AUTHORS?ref=master
+2014-08-05 17:27:32.627 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/popcorn/contents/AUTHORS?ref=master
+2014-08-05 17:27:32.835 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-oauth/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.028 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-ossp-uuid/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.227 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.419 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.611 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlastic_search/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.804 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlaws/contents/AUTHORS?ref=master
+2014-08-05 17:27:33.998 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlcloud/contents/AUTHORS?ref=master
+2014-08-05 17:27:34.193 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erldis/contents/AUTHORS?ref=master
+2014-08-05 17:27:34.394 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Erlualib/contents/AUTHORS?ref=master
+2014-08-05 17:27:34.587 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/estatsd/contents/AUTHORS?ref=master
+2014-08-05 17:27:34.784 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/exactor/contents/AUTHORS?ref=master
+2014-08-05 17:27:34.975 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ex_uri/contents/AUTHORS?ref=master
+2014-08-05 17:27:35.171 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fd_server/contents/AUTHORS?ref=master
+2014-08-05 17:27:35.367 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 17:27:35.561 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/find_rebar_deps/contents/AUTHORS?ref=master
+2014-08-05 17:27:35.754 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/folsom/contents/AUTHORS?ref=master
+2014-08-05 17:27:35.947 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/freckle_for_mac/contents/AUTHORS?ref=master
+2014-08-05 17:27:36.140 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 17:27:36.332 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_httpd/contents/AUTHORS?ref=master
+2014-08-05 17:27:36.531 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_icmp/contents/AUTHORS?ref=master
+2014-08-05 17:27:36.738 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_server2/contents/AUTHORS?ref=master
+2014-08-05 17:27:36.934 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_smtp/contents/AUTHORS?ref=master
+2014-08-05 17:27:37.132 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_tcpd/contents/AUTHORS?ref=master
+2014-08-05 17:27:37.323 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/geocoder/contents/AUTHORS?ref=master
+2014-08-05 17:27:37.518 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/graphsom/contents/AUTHORS?ref=master
+2014-08-05 17:27:38.022 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ibrowse/contents/AUTHORS?ref=master
+2014-08-05 17:27:38.222 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/abnfc/contents/AUTHORS?ref=master
+2014-08-05 17:27:38.734 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/AFNetworking/contents/AUTHORS?ref=master
+2014-08-05 17:27:38.930 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/aleppo/contents/AUTHORS?ref=master
+2014-08-05 17:27:39.460 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 17:27:39.651 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/assisted_workflow/contents/AUTHORS?ref=master
+2014-08-05 17:27:40.171 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/boss_db/contents/AUTHORS?ref=master
+2014-08-05 17:27:41.948 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 17:27:42.623 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cherly/contents/AUTHORS?ref=master
+2014-08-05 17:27:43.337 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 17:27:44.001 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/couchchanges/contents/AUTHORS?ref=master
+2014-08-05 17:27:44.673 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/covertool/contents/AUTHORS?ref=master
+2014-08-05 17:27:44.867 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/cowboy/contents/AUTHORS?ref=master
+2014-08-05 17:27:45.066 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 17:27:45.256 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 17:27:45.445 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 17:27:45.635 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/efps/contents/AUTHORS?ref=master
+2014-08-05 17:27:45.834 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 17:27:46.031 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eim/contents/AUTHORS?ref=master
+2014-08-05 17:27:46.224 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eleveldb/contents/AUTHORS?ref=master
+2014-08-05 17:27:46.441 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 17:27:46.634 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 17:27:46.846 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/Emysql/contents/AUTHORS?ref=master
+2014-08-05 17:27:47.043 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eper/contents/AUTHORS?ref=master
+2014-08-05 17:27:47.248 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bcrypt/contents/AUTHORS?ref=master
+2014-08-05 17:27:47.442 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang-bookmarks/contents/AUTHORS?ref=master
+2014-08-05 17:33:27.626 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:33:27.628 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:33:27.628 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:33:27.628 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:33:33.017 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 17:33:36.120 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 17:33:38.778 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 17:33:41.447 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 17:33:43.594 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 17:33:44.123 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 17:33:44.628 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 17:33:45.146 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 17:33:45.665 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 17:33:46.174 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 17:33:46.711 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 17:33:47.240 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 17:33:47.771 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 17:33:47.977 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 17:33:48.180 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 17:33:48.402 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 17:33:48.605 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 17:33:48.807 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 17:33:49.016 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 17:33:49.227 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 17:33:49.428 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 17:33:49.655 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 17:33:49.872 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 17:33:50.096 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 17:33:50.296 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 17:33:50.500 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 17:33:50.702 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 17:33:50.908 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 17:33:51.111 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 17:33:51.315 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 17:33:51.519 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 17:33:51.721 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 17:33:51.927 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 17:33:52.143 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 17:33:52.345 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 17:33:52.881 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 17:33:53.086 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 17:33:53.292 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 17:33:53.491 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
+2014-08-05 17:36:02.743 [info] <0.7.0> Application lager started on node nonode@nohost
+2014-08-05 17:36:02.745 [info] <0.7.0> Application aleppo started on node nonode@nohost
+2014-08-05 17:36:02.745 [info] <0.7.0> Application elvis started on node nonode@nohost
+2014-08-05 17:36:02.745 [info] <0.7.0> Application inaka_github started on node nonode@nohost
+2014-08-05 17:36:09.253 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=1
+2014-08-05 17:36:11.642 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=2
+2014-08-05 17:36:13.593 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=3
+2014-08-05 17:36:15.455 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=4
+2014-08-05 17:36:17.167 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/users/inaka/repos?page=5
+2014-08-05 17:36:17.674 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ptrackerl/contents/AUTHORS?ref=master
+2014-08-05 17:36:18.201 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/puppet-rebar/contents/AUTHORS?ref=master
+2014-08-05 17:36:18.734 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/pusherman/contents/AUTHORS?ref=master
+2014-08-05 17:36:19.242 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rebar-makefile/contents/AUTHORS?ref=master
+2014-08-05 17:36:19.761 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/rpsls/contents/AUTHORS?ref=master
+2014-08-05 17:36:20.265 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/shotgun/contents/AUTHORS?ref=master
+2014-08-05 17:36:20.457 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spawnedshelter/contents/AUTHORS?ref=master
+2014-08-05 17:36:20.653 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/spurs/contents/AUTHORS?ref=master
+2014-08-05 17:36:20.845 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/sumo_db/contents/AUTHORS?ref=master
+2014-08-05 17:36:21.036 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/swipe-down-view/contents/AUTHORS?ref=master
+2014-08-05 17:36:21.228 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/worker_pool/contents/AUTHORS?ref=master
+2014-08-05 17:36:21.436 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKActiveLabel/contents/AUTHORS?ref=master
+2014-08-05 17:36:21.637 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ikbot/contents/AUTHORS?ref=master
+2014-08-05 17:36:21.839 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCapture/contents/AUTHORS?ref=master
+2014-08-05 17:36:22.033 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKCellAttendant/contents/AUTHORS?ref=master
+2014-08-05 17:36:22.225 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKFadeButton/contents/AUTHORS?ref=master
+2014-08-05 17:36:22.415 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKJayma/contents/AUTHORS?ref=master
+2014-08-05 17:36:22.606 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/IKLocation/contents/AUTHORS?ref=master
+2014-08-05 17:36:23.120 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/INSocketListener/contents/AUTHORS?ref=master
+2014-08-05 17:36:23.330 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/itweet/contents/AUTHORS?ref=master
+2014-08-05 17:36:23.539 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/jinterface_stdlib/contents/AUTHORS?ref=master
+2014-08-05 17:36:23.731 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lasse/contents/AUTHORS?ref=master
+2014-08-05 17:36:23.931 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/lucene_server/contents/AUTHORS?ref=master
+2014-08-05 17:36:24.126 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/match_stream/contents/AUTHORS?ref=master
+2014-08-05 17:36:24.320 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_standards/contents/AUTHORS?ref=master
+2014-08-05 17:36:24.509 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/erlang_training/contents/AUTHORS?ref=master
+2014-08-05 17:36:25.043 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/fetjaba/contents/AUTHORS?ref=master
+2014-08-05 17:36:25.237 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/find_rebar_deps/contents/AUTHORS?ref=master
+2014-08-05 17:36:25.436 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/freckle_for_mac/contents/AUTHORS?ref=master
+2014-08-05 17:36:25.633 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/gen_dns/contents/AUTHORS?ref=master
+2014-08-05 17:36:25.829 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/apns4erl/contents/AUTHORS?ref=master
+2014-08-05 17:36:26.027 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/assisted_workflow/contents/AUTHORS?ref=master
+2014-08-05 17:36:26.222 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/canillita/contents/AUTHORS?ref=master
+2014-08-05 17:36:26.716 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/classifier/contents/AUTHORS?ref=master
+2014-08-05 17:36:26.914 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/ebitly/contents/AUTHORS?ref=master
+2014-08-05 17:36:27.113 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eclock/contents/AUTHORS?ref=master
+2014-08-05 17:36:27.305 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/edis/contents/AUTHORS?ref=master
+2014-08-05 17:36:27.497 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/eganglia/contents/AUTHORS?ref=master
+2014-08-05 17:36:27.690 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elog/contents/AUTHORS?ref=master
+2014-08-05 17:36:28.209 [info] <0.2.0>@elvis_github:auth_req:415 [Github API] https://api.github.com/repos/inaka/elvis/contents/AUTHORS?ref=master
