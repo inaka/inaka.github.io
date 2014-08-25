@@ -14,7 +14,7 @@ start() ->
         {ok, Repos} ->
             Processed = process_repos(Cred, Repos),
             RepoStr = jiffy:encode(Processed),
-            file:write_file("../js/projects.js", RepoStr);
+            file:write_file("../web/js/projects.js", RepoStr);
         {error, {"401", _, _}} ->
             io:format("Invalid credentials.");
         {error, {Status, _, Message}} ->
