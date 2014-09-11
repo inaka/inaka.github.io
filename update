@@ -3,18 +3,23 @@
 git checkout dev
 cd script
 make
+# Github user: elvisinaka
+# Github password: **********
+# The js/projects.js file will be modified if there are any new projects to add.
 make run
-# Copy new project list to parent dir
+make clean-all
+rm -rf log
 cd ..
+# Copy new project list to parent dir
 cp web/js/projects.js ../projects.js
-git checkout .
+git checkout web/js/projects.js
 # Change to master branch
-git checkout master
+# git checkout master
 # Replace project list
-cp ../projects.js js/projects.js
+# cp ../projects.js js/projects.js
 # Push changes
-git add js/projects.js
-git commit -m "Update projects list."
-git push origin master
+# git add js/projects.js
+# git commit -m "Update projects list."
+# git push origin master
 
 echo DONE
