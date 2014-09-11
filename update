@@ -1,25 +1,31 @@
 #! /bin/bash
-# Get new project list.
+
+echo === Change to 'dev' branch ===
 git checkout dev
+
+echo === Build script ===
 cd script
 make
-# Github user: elvisinaka
-# Github password: **********
-# The js/projects.js file will be modified if there are any new projects to add.
+
+echo === js/projects.js file will be modified if there are any new projects to add. ===
 make run
 make clean-all
 rm -rf log
 cd ..
-# Copy new project list to parent dir
+
+echo === Copy new project list to parent dir ===
 cp web/js/projects.js ../projects.js
 git checkout web/js/projects.js
-# Change to master branch
-# git checkout master
-# Replace project list
-# cp ../projects.js js/projects.js
-# Push changes
-# git add js/projects.js
-# git commit -m "Update projects list."
-# git push origin master
 
-echo DONE
+echo === Change to 'master' branch ===
+git checkout master
+
+echo === Replace project list ===
+mv ../projects.js js/projects.js
+
+echo === Push changes to 'master' ===
+git add js/projects.js
+git commit -m "Update projects list."
+git push origin master
+
+echo === DONE ===
