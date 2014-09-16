@@ -12,8 +12,8 @@ start() ->
                 {ok, [User]} = io:fread("GitHub user: ", "~s"),
                 {ok, [Pass]} = io:fread("GitHub password: ", "~s"),
                 {User, Pass};
-            User ->
-                Pass = application:get_env(inaka_github, github_password),
+            {ok, User} ->
+                {ok, Pass} = application:get_env(inaka_github, github_password),
                 {User, Pass}
         end,
     Cred = {basic, Username, Password},
