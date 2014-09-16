@@ -19,6 +19,7 @@ git checkout web/js/projects.js
 
 echo === Change to 'master' branch ===
 git checkout master
+git pull
 
 echo === Replace project list ===
 mv ../projects.js js/projects.js

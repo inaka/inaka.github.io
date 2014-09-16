@@ -6,8 +6,16 @@
 start() ->
     {ok, _} = application:ensure_all_started(inaka_github),
 
-    {ok, [Username]} = io:fread("GitHub user: ", "~s"),
-    {ok, [Password]} = io:fread("GitHub password: ", "~s"),
+    {Username, Password} =
+        case application:get_env(inaka_github, github_user) of
+            undefined ->
+                {ok, [User]} = io:fread("GitHub user: ", "~s"),
+                {ok, [Pass]} = io:fread("GitHub password: ", "~s"),
+                {User, Pass};
+            User ->
+                Pass = application:get_env(inaka_github, github_password),
+                {User, Pass}
+        end,
     Cred = {basic, Username, Password},
     Opts = #{type => "public"},
     case elvis_github:all_repos(Cred, "inaka", Opts) of
