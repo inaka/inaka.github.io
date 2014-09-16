@@ -80,9 +80,25 @@ Main = {
 
         $('#projects ul li').hide('slow', 'swing');
         $('#projects ul ' + selector).fadeIn('slow', 'swing');
+    },
+    qsVal: function(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    },
+    format : function() {
+        var fmt = Main.qsVal("format");
+        console.log(fmt);
+        if(fmt == "iframe") {
+            $("nav.navbar").hide();
+            $("section.information").css("margin-top", "10px");
+        }
     }
 };
 
 $(function() {
     Main.getProjects();
+
+    Main.format();
 });
