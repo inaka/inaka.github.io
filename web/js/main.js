@@ -88,14 +88,17 @@ Main = {
         return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
     },
     format : function() {
-        if(Main.qsVal("format") == "iframe") {
-            $("div.navbar").hide();
-            $("div.information").css("margin-top", "10px");
+        var fmt = Main.qsVal("format");
+        console.log(fmt);
+        if(fmt == "iframe") {
+            $("nav.navbar").hide();
+            $("section.information").css("margin-top", "10px");
         }
     }
 };
 
 $(function() {
     Main.getProjects();
+
     Main.format();
 });
