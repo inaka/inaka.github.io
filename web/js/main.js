@@ -80,9 +80,22 @@ Main = {
 
         $('#projects ul li').hide('slow', 'swing');
         $('#projects ul ' + selector).fadeIn('slow', 'swing');
+    },
+    qsVal: function(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    },
+    format : function() {
+        if(Main.qsVal("format") == "iframe") {
+            $("div.navbar").hide();
+            $("div.information").css("margin-top", "10px");
+        }
     }
 };
 
 $(function() {
     Main.getProjects();
+    Main.format();
 });
