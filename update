@@ -2,6 +2,7 @@
 
 echo === Change to 'dev' branch ===
 git checkout dev
+git pull
 
 echo === Build script ===
 cd script
