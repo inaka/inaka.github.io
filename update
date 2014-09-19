@@ -2,7 +2,7 @@
 
 echo === Change to 'dev' branch ===
 git checkout dev
-git pull
+git pull origin dev
 
 echo === Build script ===
 cd script
@@ -20,7 +20,7 @@ git checkout .
 
 echo === Change to 'master' branch ===
 git checkout master
-git pull
+git pull origin master
 
 echo === Replace project list ===
 mv ../projects.js js/projects.js
