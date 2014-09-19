@@ -15,7 +15,7 @@ cd ..
 
 echo === Copy new project list to parent dir ===
 cp web/js/projects.js ../projects.js
-git checkout web/js/projects.js
+git checkout .
 
 echo === Change to 'master' branch ===
 git checkout master
