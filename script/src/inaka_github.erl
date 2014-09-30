@@ -18,7 +18,7 @@ start() ->
         end,
     Cred = {basic, Username, Password},
     Opts = #{type => "public"},
-    case elvis_github:all_repos(Cred, "inaka", Opts) of
+    case egithub:all_repos(Cred, "inaka", Opts) of
         {ok, Repos} ->
             Processed = process_repos(Cred, Repos),
             RepoStr = jiffy:encode(Processed),
@@ -34,7 +34,7 @@ start() ->
 authors(Cred, Repo) ->
     {ok, DefaultAuthors} = application:get_env(inaka_github, default_authors),
     FullName = maps:get(<<"full_name">>, Repo),
-    case elvis_github:file_content(Cred, FullName, "master", "AUTHORS") of
+    case egithub:file_content(Cred, FullName, "master", "AUTHORS") of
         {ok, Content} ->
             Authors = binary:split(Content, <<"\n">>, [global]),
             Repo#{authors => Authors};

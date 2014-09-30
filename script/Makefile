@@ -1,8 +1,8 @@
 PROJECT = inaka_github
 
-DEPS = elvis
+DEPS = egithub
 
-dep_elvis = https://github.com/inaka/elvis.git master
+dep_egithub = https://github.com/inaka/erlang-github.git master
 
 include erlang.mk
 

@@ -3,7 +3,7 @@
   [
    {description, "Extract Inaka public repos info."},
    {vsn, "0.1.0"},
-   {applications, [kernel, stdlib, elvis, jiffy]},
+   {applications, [kernel, stdlib, egithub, jiffy]},
    {modules,
     [
      inaka_github
