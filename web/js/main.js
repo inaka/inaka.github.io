@@ -18,7 +18,7 @@ Main = {
         $.each(projects, function(index, project) {
             var item = template.clone();
             var langClass = Main.toClass(project.language);
-            item.find('.name').html(project.name);
+            item.find('.name').html(Main.projectName(project));
             item.find('.authors').html(project.authors.join(', '));
             item.find('.desc').html(project.description);
             item.find('.lang').html(project.language);
@@ -33,6 +33,13 @@ Main = {
         });
 
         Main.buildFilter();
+    },
+    projectName: function(project) {
+        if(project.homepage == null || project.homepage.trim() == "") {
+            return project.name;
+        } else {
+            return "<a href='" + project.homepage + "'>" + project.name + "</a>";
+        }
     },
     randomColor : function() {
         var index = Math.floor(Math.random() * Main.colors.length);
