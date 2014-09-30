@@ -37,11 +37,9 @@ Main = {
         return Main.colors[index];
     },
     sortNames : function(p1, p2) {
-        name1 = p1.name.toLowerCase();
-        name2 = p2.name.toLowerCase();
-        if (name1 < name2)
+        if (p1.name < p2.name)
             return -1;
-        if (name1 > name2)
+        if (p1.name > p2.name)
             return 1;
         return 0;
     },
