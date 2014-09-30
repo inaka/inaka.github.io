@@ -22,6 +22,8 @@ Main = {
             item.find('.authors').html(project.authors.join(', '));
             item.find('.desc').html(project.description);
             item.find('.lang').html(project.language);
+            item.find('.stars span').text(project.stargazers_count);
+            item.find('.forks span').text(project.forks);
             item.find('.github').attr('href', project.html_url);
             item.css('background', Main.randomColor()),
             item.addClass(langClass);
