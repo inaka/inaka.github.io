@@ -1,7 +1,7 @@
 # inaka.github.io
 
 ## Overview
-Inaka's Open Source Projects List. This repo is used to build and display [inaka.github.io](inaka.github.io) based on our ever-growing list of open-source repos hosted on github.
+Inaka's Open Source Projects List. This repo is used to build and display [inaka.github.io](http://inaka.github.io) based on our ever-growing list of open-source repos hosted on github.
 
 ## Contact Us
 For **questions** or **general comments** regarding this project, please use our public [hipchat room](https://www.hipchat.com/gpBpW3SsT).
