@@ -1,3 +1,5 @@
+inaka_github.d
+.erlang.mk/
 _site/
 ebin/
 deps/
