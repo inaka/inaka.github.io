@@ -3,8 +3,8 @@ PROJECT = inaka_github
 DEPS = egithub
 SHELL_DEPS = sync
 
-dep_egithub = git https://github.com/inaka/erlang-github.git b827249
-dep_sync = git https://github.com/rustyio/sync.git 9c78e7b 
+dep_egithub = git https://github.com/inaka/erlang-github.git 0.1.16
+dep_sync = git https://github.com/rustyio/sync.git 9c78e7b
 
 include erlang.mk
 
