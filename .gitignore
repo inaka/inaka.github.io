@@ -1,3 +1,5 @@
+compile_commands.json
+_build/
 inaka_github.d
 .erlang.mk/
 _site/

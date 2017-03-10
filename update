@@ -9,12 +9,10 @@ git pull origin dev
 
 echo === Build script ===
 cd script
-make
+rebar3 release
 
 echo === js/projects.js file will be modified if there are any new projects to add. ===
-make run
-make clean-all
-rm -rf log
+erl -pa _build/default/rel/inaka_github/lib/*/ebin -s inaka_github -noshell -config _build/default/rel/inaka_github/releases/0.1.0/sys.config
 cd ..
 
 echo === Copy new project list to parent dir ===
