@@ -1,0 +1,23 @@
+{
+  "name": "inaka-github-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./node_modules/parcel-bundler/bin/cli.js index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEREMSOFT/inaka.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WEREMSOFT/inaka.github.io/issues"
+  },
+  "homepage": "https://github.com/WEREMSOFT/inaka.github.io#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
