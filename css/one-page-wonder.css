@@ -43,3 +43,7 @@ header.masthead>.overlay {
 .bg-inaka {
   background-color: #e5002b;
 }
+
+.spacer-down {
+  margin-bottom: 50px;
+}
