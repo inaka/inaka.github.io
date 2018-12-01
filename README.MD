@@ -10,3 +10,8 @@ npm install
 npm run serve
 ```
 
+# To Update the Site content with github data
+```
+npm build
+```
+

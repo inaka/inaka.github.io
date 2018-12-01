@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "serve": "node ./node_modules/parcel-bundler/bin/cli.js ./src/index.html --https"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WEREMSOFT/inaka.github.io.git"
@@ -18,7 +15,15 @@
   },
   "homepage": "https://github.com/WEREMSOFT/inaka.github.io#readme",
   "dependencies": {
+    "node-fetch": "^2.2.1",
     "parcel-bundler": "^1.10.3",
+    "ramda": "^0.26.0",
     "whiskers": "^0.4.0"
+  },
+  "scripts": {
+    "serve": "node ./node_modules/parcel-bundler/bin/cli.js index.html --https",
+    "render": "node render",
+    "fetch": "node fetchGithubData",
+    "build": "npm run fetch && npm run render && echo 'Build done'"
   }
 }
