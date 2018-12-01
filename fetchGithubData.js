@@ -5,7 +5,7 @@ const fs = require('fs');
 const R = require('ramda');
 
 
-const accessToken = '34c8e27ff36cfd2373abdacea28644f0ecc1fd8d';
+const accessToken = 'YOU_NEED_TO_GENERATE_YOURS';
 var groupsOf = R.curry(function group(n, list) {
     return R.isEmpty(list) ? [] : R.prepend(R.take(n, list), group(n, R.drop(n, list)));
 })(3);
