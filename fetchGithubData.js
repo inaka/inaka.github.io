@@ -1,11 +1,9 @@
-//34c8e27ff36cfd2373abdacea28644f0ecc1fd8d
-
 const fetch = require('node-fetch');
 const fs = require('fs');
 const R = require('ramda');
 
 
-const accessToken = 'YOU_NEED_TO_GENERATE_YOURS';
+const accessToken = 'YOU_HAVE_TO_GENERATE_YOUR_OWN'; // https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
 var groupsOf = R.curry(function group(n, list) {
     return R.isEmpty(list) ? [] : R.prepend(R.take(n, list), group(n, R.drop(n, list)));
 })(3);
@@ -47,6 +45,10 @@ fetch('https://api.github.com/graphql', {
                         case 'elixir':
                         case 'objective-c':
                         case 'makefile':
+                        case 'javascript':
+                        case 'kotlin':
+                        case 'java':
+                        case 'ruby':
                             break;
                         default:
                             elm.imageSuffix  = 'erlang';
