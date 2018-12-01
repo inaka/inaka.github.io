@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "node ./node_modules/parcel-bundler/bin/cli.js index.html --https"
+    "serve": "node ./node_modules/parcel-bundler/bin/cli.js ./src/index.html --https"
   },
   "repository": {
     "type": "git",
