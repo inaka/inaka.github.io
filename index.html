@@ -1,128 +1,2127 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Open Inaka</title><link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"><!-- jQuery--><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><!-- Bootstrap--><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap-theme.min.css"><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.min.css"><script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js"></script><script src="js/main.js"></script><style type="text/css">ul,
-ol,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-pre,
-form,
-body,
-html,
-p,
-blockquote,
-fieldset,
-input,
-td {
-  padding: 0;
-  margin: 0;
-}
-li {
-  list-style: none;
-}
-body {
-  background-color: #efefef;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  line-height: 1em;
-  font-size: 2em;
-}
-.header {
-  position: relative;
-  width: 960px;
-  z-index: 2;
-}
-.navbar {
-  background: rgba(212,213,212,0.5);
-  padding: 10px 0;
-  letter-spacing: 1px;
-  -webkit-transition: background 0.8s ease-in-out, padding 0.8s ease-in-out;
-  -moz-transition: background 0.8s ease-in-out, padding 0.8s ease-in-out;
-  transition: background 0.8s ease-in-out, padding 0.8s ease-in-out;
-  border: 0px;
-}
-.navbar-custom .nav li a:hover,
-.navbar-custom .nav li a:focus {
-  outline: 0;
-  background-color: rgba(255,255,255,0.5);
-}
-.navbar-custom a,
-.navbar-custom a:hover,
-.navbar-custom a:focus {
-  color: #000;
-}
-.information {
-  margin-top: 100px;
-}
-.information h2 {
-  margin-bottom: 10px;
-}
-#projects h1 {
-  margin: 20px 0px;
-}
-#filters {
-  margin: 10px 0px;
-  padding: 10px;
-  font-size: 0.7em;
-  background-color: rgba(255,39,40,0.9);
-  color: #fff;
-}
-#filters span {
-  padding-right: 10px;
-}
-#filters a {
-  padding: 0px 5px;
-  color: rgba(255,255,255,0.5);
-}
-#filters a:hover,
-#filters a:focus {
-  color: #fff;
-}
-#filters a:active,
-#filters a.selected {
-  color: #fff;
-  text-decoration: underline;
-}
-.project {
-  padding: 10px;
-  margin: 15px 0px;
-  color: #fff;
-}
-.project a {
-  color: #fff;
-  text-decoration: underline;
-}
-.project h2 {
-  font-size: 1.2em;
-  margin-bottom: 3px;
-  font-weight: bold;
-}
-.project p.lang,
-.project .stars,
-.project .forks {
-  font-size: 0.7em;
-  float: right;
-  margin: 11px 10px 0 0;
-}
-.project .stars img {
-  padding-bottom: 5px;
-  margin-left: 5px;
-}
-.project p.desc {
-  margin-top: 5px;
-  font-size: 0.8em;
-}
-.project .github,
-.project .stars,
-.project .forks {
-  float: right;
-}
-.project p.authors {
-  margin-top: 5px;
-  font-size: 0.6em;
-}
-</style></head><body id="page-top" data-spy="scroll" data-target=".navbar-custom"><nav role="navigation" class="navbar navbar-custom navbar-fixed-top"><div class="container"><div class="navbar-header"><a href="http://inaka.net"><img src="./img/inaka-logo.png"></a></div></div></nav><div class="container"><section class="information"><h2>Who we are?</h2><div>Inaka is a community of open-source enthusiasts (developers, PMs, devops,
-QA experts, etc.). We maintain all the repos listed in this page
-(and some others, too).</div><h2>Contact Us</h2><div>If you have questions, suggestions or comments about any of
-these projects please contact the dev team at <a href="mailto:inakos@googlegroups.com">inakos@googlegroups.com</a></div><h2>Join us!</h2><div>Inaka is an <strong>open community</strong>. If you want to be part of it, just followthe instructions in our <a href="https://github.com/inaka/guidelines">guidelines</a>.</div></section><section id="projects"><div id="filters"><span>SHOW</span><a href="#" data-lang="all">All</a></div><ul><li class="project"><a class="github"><img src="img/github.png" width="40"></a><p class="lang">Lang</p><p class="forks"><span>50</span><img src="img/fork-icon.png" width="22"></p><p class="stars"><span>300</span><img src="img/star-icon.png" width="18"></p><h2 class="name">Project 1</h2><p class="authors">Authors</p><p class="desc">Description</p></li></ul></section></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Inaka Open Repository Home Page">
+  <meta name="author" content="Inaka">
+  <link rel='icon' href='favicon.ico' type='image/x-icon' />
+  <title>Open Inaka</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+  <!-- Custom styles for this template -->
+  <link href="css/one-page-wonder.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-inaka fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Open Inaka</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="https://medium.com/@x_inaka" class="nav-link" target="_new" href="">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://github.com/inaka" target="_new" class="nav-link" href="#"><i class="fab fa-github"></i> GitHub</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="masthead">
+    <div class="overlay">
+      <div class="container">
+        <h1 class="display-1 text-white">Inaka</h1>
+        <h2 class="display-3 text-white">Open-source enthusiasts</h2>
+      </div>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4 order-2">
+          <div class="p-5 d-none d-md-block">
+            <img class="img-fluid rounded-circle" src="./images/whoweare.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-8 order-1">
+          <div class="p-5">
+            <h2 class="display-4">Who we are?</h2>
+            <p>Inaka is a community of open-source enthusiasts (developers, PMs, devops, QA experts, etc.).</p>
+            <p>We maintain all the repos listed in this page (and some others, too).</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4">
+          <div class="p-5 d-none d-md-block">
+            <img class="img-fluid rounded-circle" src="./images/history.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-md-8">
+          <div class="p-5">
+            <h2 class="display-4">Proud of our history</h2>
+            <p>This <a href="https://medium.com/@x_inaka/from-company-to-community-fa3c7ab041bf">amazing blogpost</a>
+              explains our origins and history after 7+ years of existence. Please take a look.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4 order-2">
+          <div class="p-5 d-none d-md-block">
+            <img class="img-fluid rounded-circle " src="./images/NY.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-md-8 order-1">
+          <div class="p-5">
+            <h2 class="display-4">Contact Us</h2>
+            <p>If you have questions, suggestions or comments about any of these projects please contact the dev team
+              at inakos@googlegroups.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+<section>
+  <div class="container">
+      <div class="col-md-12">
+          <div class="p-5">
+            <h2 class="display-4">Our Projects</h2>
+            <p>Inaka had a massive focus on sharing with the world. We developed and actively maintained~80 open-source projects.</p>
+            <p>We also maintained all of our open-source projects and guidelines and we’re (together with Erlang Solutions) in the process of republishing all of our blog posts with updates and new stuff.</p>
+            <p>As a community, it’s clear how we still help each other out in terms of personal growth. It’s amazing to see how we’re never alone. Almost all of the inakos are working with other inakos and we’re still praised for our high-quality standards and great culture everywhere we go.</p>
+          </div>
+        </div>
+  </div>
+</section>
+
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/AITwitterAuth">AITwitterAuth</a></h5>
+                  <p class="card-text"></p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/AITwitterAuth"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ColorPicker">ColorPicker</a></h5>
+                  <p class="card-text">Color Picker for Swift</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ColorPicker"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/Dayron">Dayron</a></h5>
+                  <p class="card-text">A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/Dayron"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/Emysql">Emysql</a></h5>
+                  <p class="card-text">Erlang MySQL driver</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/Emysql"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/EventSource">EventSource</a></h5>
+                  <p class="card-text">A simple Swift client library for the Server Sent Events (SSE)</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/EventSource"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/FadeButton">FadeButton</a></h5>
+                  <p class="card-text">Fading effects for UIButtons made simple</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/FadeButton"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/IKCapture">IKCapture</a></h5>
+                  <p class="card-text">Snapchat-Like Image Capture Library</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/IKCapture"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/IKJayma">IKJayma</a></h5>
+                  <p class="card-text">RESTful API abstraction for Server Interconnection</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/IKJayma"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/INSocketListener">INSocketListener</a></h5>
+                  <p class="card-text">SSE Socket Listener for Objective-C</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/INSocketListener"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/Jayme">Jayme</a></h5>
+                  <p class="card-text">Abstraction layer that eases RESTful interconnections in Swift</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/Jayme"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/JaymeExample">JaymeExample</a></h5>
+                  <p class="card-text">Example of usage for Jayme</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/JaymeExample"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/Jolly">Jolly</a></h5>
+                  <p class="card-text">Jolly Chimp that keeps track of our Github Repos</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/Jolly"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-kotlin.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/KillerTask">KillerTask</a></h5>
+                  <p class="card-text">Android AsyncTask wrapper library, written in Kotlin</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Kotlin</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/KillerTask"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/MediaPickerController">MediaPickerController</a></h5>
+                  <p class="card-text">Neat API for presenting the classical action sheet for picking an image or video from the device or camera.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/MediaPickerController"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/Otec">Otec</a></h5>
+                  <p class="card-text">A swift app to showcase our best open-source libraries</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/Otec"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/PictureViewMaster">PictureViewMaster</a></h5>
+                  <p class="card-text">Interactive image projector.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/PictureViewMaster"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-java.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/TinyTask">TinyTask</a></h5>
+                  <p class="card-text">A Tiny Task Library</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Java</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/TinyTask"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/XCDYouTubeKit">XCDYouTubeKit</a></h5>
+                  <p class="card-text">YouTube video player for iOS and OS X</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/XCDYouTubeKit"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/XMPPFramework">XMPPFramework</a></h5>
+                  <p class="card-text">An XMPP Framework in Objective-C for Mac and iOS</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/XMPPFramework"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/aleppo">aleppo</a></h5>
+                  <p class="card-text">Alternative Erlang Pre-Processor</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/aleppo"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/android-excercises">android-excercises</a></h5>
+                  <p class="card-text">Quick test for Android candidates</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/android-excercises"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/android_guidelines">android_guidelines</a></h5>
+                  <p class="card-text">Inaka's Android Development Guidelines</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/android_guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/angular-img-onload">angular-img-onload</a></h5>
+                  <p class="card-text">prettify image load</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">CoffeeScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/angular-img-onload"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-javascript.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/angularjs-slider">angularjs-slider</a></h5>
+                  <p class="card-text">Slider directive for AngularJS. No dependencies and mobile friendly.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">JavaScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/angularjs-slider"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/apns4erl">apns4erl</a></h5>
+                  <p class="card-text">Apple Push Notification Server for Erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/apns4erl"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-ruby.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/assisted_workflow">assisted_workflow</a></h5>
+                  <p class="card-text">A CLI tool to automate software development workflows based on github pull-requests.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Ruby</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/assisted_workflow"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/beam_olympics">beam_olympics</a></h5>
+                  <p class="card-text">Let's find the fastest beamer!</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/beam_olympics"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/beam_olympics-extended">beam_olympics-extended</a></h5>
+                  <p class="card-text">Internal repo to keep secret beam_olympics tasks from the public view</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/beam_olympics-extended"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/beam_olympics-solver">beam_olympics-solver</a></h5>
+                  <p class="card-text">Solutions for beam_olympics</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/beam_olympics-solver"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/bookmarks">bookmarks</a></h5>
+                  <p class="card-text">A collection of bookmarks for Inakos</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/bookmarks"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/canillita">canillita</a></h5>
+                  <p class="card-text">Simple Paperboy-themed PubSub</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/canillita"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-ruby.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/client_side_validations">client_side_validations</a></h5>
+                  <p class="card-text">ClientSideValidations for Ruby on Rails</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Ruby</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/client_side_validations"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/cowboy-trails">cowboy-trails</a></h5>
+                  <p class="card-text">A couple of improvements over Cowboy Routes</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/cowboy-trails"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-javascript.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/cowboy_swagger">cowboy_swagger</a></h5>
+                  <p class="card-text">Swagger integration for Cowboy (built on trails)</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">JavaScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/cowboy_swagger"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/credo_server">credo_server</a></h5>
+                  <p class="card-text">Credo Server</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/credo_server"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/da-book">da-book</a></h5>
+                  <p class="card-text">Phonebook Exercise in Angular.JS</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">CSS</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/da-book"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/docker-android-sdk">docker-android-sdk</a></h5>
+                  <p class="card-text">Docker container with android SDK for builds</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/docker-android-sdk"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/docker-ansible">docker-ansible</a></h5>
+                  <p class="card-text"></p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Roff</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/docker-ansible"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/docker-aws-cli">docker-aws-cli</a></h5>
+                  <p class="card-text">aws-cli Docker container</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/docker-aws-cli"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/docker-btproxy">docker-btproxy</a></h5>
+                  <p class="card-text">btproxy Docker container</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/docker-btproxy"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/elvis">elvis</a></h5>
+                  <p class="card-text">Erlang Style Reviewer</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/elvis"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/elvis-webhook-test">elvis-webhook-test</a></h5>
+                  <p class="card-text"></p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/elvis-webhook-test"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/elvis.mk">elvis.mk</a></h5>
+                  <p class="card-text">3rd party elrang.mk plug-in for Elvis</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/elvis.mk"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/elvis_core">elvis_core</a></h5>
+                  <p class="card-text">Core modules for elvis</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/elvis_core"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/emarkdown">emarkdown</a></h5>
+                  <p class="card-text">Based on https://github.com/devinus/markdown - but for Erlang :)</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/emarkdown"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang-github">erlang-github</a></h5>
+                  <p class="card-text">Github API client</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang-github"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang-katana">erlang-katana</a></h5>
+                  <p class="card-text">Erlang grab bag of useful functions. it should have been called swiss army knife but katanas are deadlier</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang-katana"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang-oauth">erlang-oauth</a></h5>
+                  <p class="card-text">An Erlang OAuth 1.0 implementation</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang-oauth"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang_guidelines">erlang_guidelines</a></h5>
+                  <p class="card-text">Inaka's Erlang Coding Guidelines</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang_guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang_iso8601">erlang_iso8601</a></h5>
+                  <p class="card-text">Erlang ISO 8601 date formatter/parser</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang_iso8601"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/erlang_protobuffs">erlang_protobuffs</a></h5>
+                  <p class="card-text">An implementation of Google's Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/erlang_protobuffs"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/fetjaba">fetjaba</a></h5>
+                  <p class="card-text">From Erlang To Java and Back Again</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/fetjaba"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/fiar">fiar</a></h5>
+                  <p class="card-text">Four in a Row - A game to learn Erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/fiar"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/g2x">g2x</a></h5>
+                  <p class="card-text">Graffle to XCode</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/g2x"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-java.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/galgo">galgo</a></h5>
+                  <p class="card-text">When you want your logs to be displayed on screen</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Java</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/galgo"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/galgo-ios">galgo-ios</a></h5>
+                  <p class="card-text">When you want your logs to be displayed on screen</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/galgo-ios"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/gold_fever">gold_fever</a></h5>
+                  <p class="card-text">A Treasure Hunt for Erlangers</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/gold_fever"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/gold_fever-solver">gold_fever-solver</a></h5>
+                  <p class="card-text">A solver for the http://github.com/inaka/gold_fever game</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/gold_fever-solver"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/guidelines">guidelines</a></h5>
+                  <p class="card-text">General Inaka Guidelines</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/gun">gun</a></h5>
+                  <p class="card-text">HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/gun"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/hexer">hexer</a></h5>
+                  <p class="card-text">Hex.pm integration in escript format.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/hexer"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/hexer.mk">hexer.mk</a></h5>
+                  <p class="card-text">erlang.mk plugin for hexer</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/hexer.mk"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-ruby.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/homebrew-formulas">homebrew-formulas</a></h5>
+                  <p class="card-text">Homebrew formulas for some of our tools</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Ruby</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/homebrew-formulas"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/iOS-exercises">iOS-exercises</a></h5>
+                  <p class="card-text"></p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/iOS-exercises"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ikbot">ikbot</a></h5>
+                  <p class="card-text">An elixir based customizable hipchat bot</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ikbot"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/inaka.github.io">inaka.github.io</a></h5>
+                  <p class="card-text">Inaka's Open Source Projects</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/inaka.github.io"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-makefile.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/inaka.mk">inaka.mk</a></h5>
+                  <p class="card-text">erlang.mk extras that we generally use in all of our projects</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Makefile</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/inaka.mk"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ios-scripts">ios-scripts</a></h5>
+                  <p class="card-text">Helper scripts that you can use in your iOS apps</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Shell</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ios-scripts"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-swift.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ios-xmpp-sample">ios-xmpp-sample</a></h5>
+                  <p class="card-text">Blog post sample project.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Swift</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ios-xmpp-sample"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-objective-c.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ios_guidelines">ios_guidelines</a></h5>
+                  <p class="card-text">Inaka's iOS Coding Guidelines</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Objective-C</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ios_guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/itweet">itweet</a></h5>
+                  <p class="card-text">Twitter Stream API on ibrowse</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/itweet"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-javascript.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/jem.js">jem.js</a></h5>
+                  <p class="card-text">Just Erlang Maps for Javascript</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">JavaScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/jem.js"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-java.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/jinterface_stdlib">jinterface_stdlib</a></h5>
+                  <p class="card-text">Erlang stdlib implementation on Java, based on JInterface</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Java</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/jinterface_stdlib"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/kafkerl">kafkerl</a></h5>
+                  <p class="card-text">Apache Kafka producer/consumer for erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/kafkerl"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/katana-code">katana-code</a></h5>
+                  <p class="card-text">Code Utilities for Erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/katana-code"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/katana-test">katana-test</a></h5>
+                  <p class="card-text">Meta Testing Utilities for common_test</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/katana-test"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-kotlin.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/kotlillon">kotlillon</a></h5>
+                  <p class="card-text">Android Kotlin Examples</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Kotlin</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/kotlillon"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/lasse">lasse</a></h5>
+                  <p class="card-text">SSE handler for Cowboy</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/lasse"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-java.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/lewis">lewis</a></h5>
+                  <p class="card-text">Rock your Android</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Java</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/lewis"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/lsl">lsl</a></h5>
+                  <p class="card-text">Last Stick Loses</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/lsl"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-java.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/lucene_server">lucene_server</a></h5>
+                  <p class="card-text">Lucene Server for Erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Java</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/lucene_server"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-javascript.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/match_stream">match_stream</a></h5>
+                  <p class="card-text">A sample project to show in our scale blog post</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">JavaScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/match_stream"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-javascript.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ment.io">ment.io</a></h5>
+                  <p class="card-text">Mentions and Macros for Angular</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">JavaScript</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ment.io"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/mixer">mixer</a></h5>
+                  <p class="card-text">Mix in functions from other modules</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/mixer"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/nconf">nconf</a></h5>
+                  <p class="card-text">Nested Configuration Manager for Erlang Applications</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/nconf"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/niffy">niffy</a></h5>
+                  <p class="card-text">Inline C code in Erlang modules to build NIFs</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/niffy"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/phoenix_passwordless_login">phoenix_passwordless_login</a></h5>
+                  <p class="card-text">Phoenix Passwordless Login</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/phoenix_passwordless_login"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/plixir">plixir</a></h5>
+                  <p class="card-text">Poker + Elixir + Phoenix</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">CSS</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/plixir"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/pokedex">pokedex</a></h5>
+                  <p class="card-text">Dumb repo to prove what we can do with sumo{_db|rest_}</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/pokedex"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/pong">pong</a></h5>
+                  <p class="card-text">InakaPong related stuff</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/pong"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/pusherman">pusherman</a></h5>
+                  <p class="card-text">queuing system for push notifications</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/pusherman"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-elixir.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/pushito">pushito</a></h5>
+                  <p class="card-text">APNS over HTTP/2</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Elixir</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/pushito"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-ruby.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/rails_admin">rails_admin</a></h5>
+                  <p class="card-text">RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Ruby</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/rails_admin"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/rest_guidelines">rest_guidelines</a></h5>
+                  <p class="card-text">REST API Design Guidelines</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/rest_guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/riak-erlang-client">riak-erlang-client</a></h5>
+                  <p class="card-text">Erlang clients for Riak.</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/riak-erlang-client"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/riak_pb">riak_pb</a></h5>
+                  <p class="card-text">Riak Protocol Buffers Messages</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/riak_pb"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/rpsls">rpsls</a></h5>
+                  <p class="card-text">Rock Paper Scissors Lizzard Spock World Championship in Erlang</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/rpsls"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-other.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/ruby_guidelines">ruby_guidelines</a></h5>
+                  <p class="card-text">Our own guidelines when it comes to ruby development</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success"></span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/ruby_guidelines"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/serpents">serpents</a></h5>
+                  <p class="card-text">Multi-Player Game on top of HDP protocol</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/serpents"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="spacer-down">
+  <div class="container">
+    <div class="row justify-content-start">
+      
+          <div class="col-md-4">
+            
+              <div class="card">
+                <img class="card-img-top" src="images/cards/card-erlang.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title"><a href="https://github.com/inaka/sheldon">sheldon</a></h5>
+                  <p class="card-text">Very Simple Erlang Spell Checker</p>
+                </div>
+                <div class="card-footer">
+                    <span class="badge badge-success">Erlang</span>
+                    <span class="badge badge-dark"><a class="white-link" href="https://github.com/inaka/sheldon"><i class="fab fa-github"></i></a> </span>
+                  
+                </div>
+              </div>
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+          </div>
+      
+          <div class="col-md-4">
+            
+          </div>
+      
+    </div>
+  </div>
+</section>
+
+
+  <!-- Footer -->
+  <footer class="py-5 bg-inaka">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Open Inaka 2018</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
