@@ -12,7 +12,8 @@
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous">
 
 
   <!-- Custom styles for this template -->
@@ -40,7 +41,8 @@
             <a href="https://medium.com/@x_inaka" class="nav-link" target="_new" href="">Blog</a>
           </li>
           <li class="nav-item">
-            <a href="https://github.com/inaka" target="_new" class="nav-link" href="#"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://github.com/inaka" target="_new" class="nav-link" href="#"><i class="fab fa-github"></i>
+              GitHub</a>
           </li>
         </ul>
       </div>
@@ -66,12 +68,12 @@
         </div>
         <div class="col-md-8 order-1">
           <div class="p-5">
-              <h2 class="display-4">Who we are?</h2>
-              <p>Inaka is a community of open-source enthusiasts (developers, PMs, devops, QA experts, etc.).</p>
-              <p>We maintain all the repos listed in this page (and some others, too).</p>
-            </div>
+            <h2 class="display-4">Who we are</h2>
+            <p>Inaka is a community of open-source enthusiasts (developers, PMs, devops, QA experts, etc.).</p>
+            <p>We maintain all the repos listed below (and some others, too).</p>
+          </div>
         </div>
-    </div>
+      </div>
     </div>
   </section>
 
@@ -88,10 +90,6 @@
             <h2 class="display-4">Proud of our history</h2>
             <p>This <a href="https://medium.com/@x_inaka/from-company-to-community-fa3c7ab041bf">amazing blogpost</a>
               explains our origins and history after 7+ years of existence. Please take a look.</p>
-            <p>As a community, we still work <em>together</em> and we help each other out in terms of personal and professional growth.
-               It’s amazing to see how we’re never alone.
-               Almost all of the inakos are working with other inakos and we’re still praised for our high-quality standards and great culture everywhere we go.
-            </p>
           </div>
         </div>
       </div>
@@ -109,8 +107,9 @@
         <div class="col-md-8 order-1">
           <div class="p-5">
             <h2 class="display-4">Contact Us</h2>
-            <p>If you have questions, suggestions or comments about any of these projects please contact the dev team
-              at inakos@googlegroups.com</p>
+            <p>If you have questions, suggestions or comments about any of these projects (or if you want to join us)
+              please contact the dev team
+              at <a href="mailto:inakos@googlegroups.com">inakos@googlegroups.com</a></p>
           </div>
         </div>
       </div>
@@ -118,47 +117,50 @@
     </div>
   </section>
 
-<section>
-  <div class="container">
+  <section>
+    <div class="container">
       <div class="col-md-12">
-          <div class="p-5">
-            <h2 class="display-4">Our Projects</h2>
-            <p>
-              Inaka, as a company, had a massive focus on sharing with the world.
-              We developed and actively maintained ~80 open-source projects.
-            </p>
-            <p>We still maintain all of our open-source projects and guidelines, check them out in the list below.</p>
-          </div>
+        <div class="p-5">
+          <h2 class="display-4">Our Projects</h2>
+          <p>Inaka had a massive focus on sharing with the world. We developed and actively maintained~80 open-source
+            projects.</p>
+          <p>We also maintained all of our open-source projects and guidelines and we’re (together with Erlang
+            Solutions) in the process of republishing all of our blog posts with updates and new stuff.</p>
+          <p>As a community, it’s clear how we still help each other out in terms of personal growth. It’s amazing to
+            see how we’re never alone. Almost all of the inakos are working with other inakos and we’re still praised
+            for our high-quality standards and great culture everywhere we go.</p>
         </div>
-  </div>
-</section>
-
-{for node in nodes}
-<section class="spacer-down">
-  <div class="container">
-    <div class="row justify-content-start">
-      {for project in node}
-          <div class="col-md-4">
-            {if project.name}
-              <div class="card">
-                <img class="card-img-top" src="images/cards/card-{project.imageSuffix}.jpg" alt="Card image cap">
-                <div class="card-body">
-                  <h5 class="card-title"><a href="{project.projectsUrl}">{project.name}</a></h5>
-                  <p class="card-text">{project.description}</p>
-                </div>
-                <div class="card-footer">
-                    <span class="badge badge-success">{project.primaryLanguage.name}</span>
-                    <span class="badge badge-dark"><a class="white-link" href="{project.projectsUrl}"><i class="fab fa-github"></i></a> </span>
-                  
-                </div>
-              </div>
-            {/if}
-          </div>
-      {/for}
+      </div>
     </div>
-  </div>
-</section>
-{/for}
+  </section>
+
+  {for node in nodes}
+  <section class="spacer-down">
+    <div class="container">
+      <div class="row justify-content-start">
+        {for project in node}
+        <div class="col-md-4">
+          {if project.name}
+          <div class="card">
+            <img class="card-img-top" src="images/cards/card-{project.imageSuffix}.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title"><a href="{project.projectsUrl}">{project.name}</a></h5>
+              <p class="card-text">{project.description}</p>
+            </div>
+            <div class="card-footer">
+              <span class="badge badge-success">{project.primaryLanguage.name}</span>
+              <span class="badge badge-dark"><a class="white-link" href="{project.projectsUrl}"><i class="fab fa-github"></i></a>
+              </span>
+
+            </div>
+          </div>
+          {/if}
+        </div>
+        {/for}
+      </div>
+    </div>
+  </section>
+  {/for}
 
   <!-- Footer -->
   <footer class="py-5 bg-inaka">
