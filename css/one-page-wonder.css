@@ -4,13 +4,47 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
  */
 
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 767px) {
+  .display-1 {
+    font-size: 4rem;
+  }
+  .display-3 {
+    font-size: 2.5rem;
+  }
+
+  .display-4 {
+    font-size: 2.5rem;
+  }
+
+  .masthead {
+    margin-top: 37px;
+  }
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .masthead {
+    margin-top: 37px;
+  }
+}
+/* tablets/desktops and up ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* large desktops and up ----------- */
+@media (min-width: 1200px) {
+}
+
+
 body {
-  padding-top: 54px;
+  padding-top: 17px;
 }
 
 @media (min-width: 992px) {
   body {
-    padding-top: 56px;
+    padding-top: 35px;
   }
 }
 
