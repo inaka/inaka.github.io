@@ -29,14 +29,6 @@
     margin-top: 37px;
   }
 }
-/* tablets/desktops and up ----------- */
-@media (min-width: 992px) and (max-width: 1199px) {
-}
-
-/* large desktops and up ----------- */
-@media (min-width: 1200px) {
-}
-
 
 body {
   padding-top: 17px;
