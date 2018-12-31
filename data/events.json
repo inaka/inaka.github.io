@@ -1,0 +1,11 @@
+{
+    "events": [
+        {
+            "name": "Cadorna",
+            "description": "This is a demo event, soon will be a real one.",
+            "primaryLanguage": {
+                "name": "erlang"
+            }
+        }
+    ]
+}
