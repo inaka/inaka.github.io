@@ -1,11 +1,40 @@
 {
     "events": [
         {
-            "name": "Cadorna",
-            "description": "This is a demo event, soon will be a real one.",
+            "name": "Soft Around the Globe",
+            "description": "100% online conference for and by software designers & developers.",
             "primaryLanguage": {
                 "name": "erlang"
-            }
+            },
+            "projectsUrl": "https://eventil.com/events/soft-around-the-globe",
+            "image": "card-satw.png"
+        },
+        {
+            "name": "Spawnfest",
+            "description": "Create the best BEAM-based applications your team can in 48hs.",
+            "primaryLanguage": {
+                "name": "erlang"
+            },
+            "projectsUrl": "https://spawnfest.github.io/",
+            "image": "card-spawnfest.jpg"
+        },
+        {
+            "name": "BeamBA",
+            "description": "Erlang, Elixir, Efene & LFE Buenos Aires User Group.",
+            "primaryLanguage": {
+                "name": "erlang"
+            },
+            "projectsUrl": "https://www.meetup.com/BeamBA/",
+            "image": "card-beamBA.jpeg"
+        },
+        {
+            "name": "SwiftBA",
+            "description": "SwiftBA user group at Buenos Aires.",
+            "primaryLanguage": {
+                "name": "swift"
+            },
+            "projectsUrl": "https://www.meetup.com/SwiftBA/",
+            "image": "card-swiftBA.png"
         }
     ]
 }
