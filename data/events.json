@@ -2,18 +2,18 @@
     "events": [
         {
             "name": "Soft Around the Globe",
-            "description": "100% online conference for and by software designers & developers.",
+            "description": "100% FREE online conference for and by software designers & developers.",
             "primaryLanguage": {
-                "name": "erlang"
+                "name": "none"
             },
             "projectsUrl": "https://eventil.com/events/soft-around-the-globe",
             "image": "card-satw.png"
         },
         {
             "name": "Spawnfest",
-            "description": "Create the best BEAM-based applications your team can in 48hs.",
+            "description": "Yearly 48-hours long FREE online hackathon for the BEAM community.",
             "primaryLanguage": {
-                "name": "erlang"
+                "name": "elixir"
             },
             "projectsUrl": "https://spawnfest.github.io/",
             "image": "card-spawnfest.jpg"
@@ -29,7 +29,7 @@
         },
         {
             "name": "SwiftBA",
-            "description": "SwiftBA user group at Buenos Aires.",
+            "description": "Swift User Group at Buenos Aires.",
             "primaryLanguage": {
                 "name": "swift"
             },
