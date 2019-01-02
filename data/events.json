@@ -11,7 +11,7 @@
         },
         {
             "name": "Spawnfest",
-            "description": "Create the best BEAM-based applications your team can in 48hs.",
+            "description": "Yearly 48-hours long FREE online hackathon for the BEAM community.",
             "primaryLanguage": {
                 "name": "elixir"
             },
