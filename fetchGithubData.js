@@ -63,7 +63,7 @@ fetch('https://api.github.com/graphql', {
             }
         ));
         while(R.last(nodes.nodes).length < 3) R.last(nodes.nodes).push({});
-        fs.writeFileSync('repose.json', JSON.stringify(nodes), err => console.error(err));
+        fs.writeFileSync('data/repose.json', JSON.stringify(nodes), err => console.error(err));
         console.log('FINISHED!!');
     })
     .catch(error => console.error(error));

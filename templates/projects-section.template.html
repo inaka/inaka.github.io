@@ -1,0 +1,44 @@
+<section>
+    <div class="container">
+      <div class="col-md-12">
+        <div class="p-5">
+          <h2 class="display-4">Our Projects</h2>
+          <p>Inaka had a massive focus on sharing with the world. We developed and actively maintained~80 open-source
+            projects.</p>
+          <p>We also maintained all of our open-source projects and guidelines and we’re (together with Erlang
+            Solutions) in the process of republishing all of our blog posts with updates and new stuff.</p>
+          <p>As a community, it’s clear how we still help each other out in terms of personal growth. It’s amazing to
+            see how we’re never alone. Almost all of the inakos are working with other inakos and we’re still praised
+            for our high-quality standards and great culture everywhere we go.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {for node in nodes}
+  <section class="spacer-down">
+    <div class="container">
+      <div class="row justify-content-start">
+        {for project in node}
+        <div class="col-md-4">
+          {if project.name}
+          <div class="card">
+            <img class="card-img-top" src="images/cards/card-{project.imageSuffix}.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title"><a href="{project.projectsUrl}">{project.name}</a></h5>
+              <p class="card-text">{project.description}</p>
+            </div>
+            <div class="card-footer">
+              <span class="badge badge-success">{project.primaryLanguage.name}</span>
+              <span class="badge badge-dark"><a class="white-link" href="{project.projectsUrl}"><i class="fab fa-github"></i></a>
+              </span>
+
+            </div>
+          </div>
+          {/if}
+        </div>
+        {/for}
+      </div>
+    </div>
+  </section>
+  {/for}
