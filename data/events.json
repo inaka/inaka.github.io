@@ -13,7 +13,7 @@
             "name": "Spawnfest",
             "description": "Create the best BEAM-based applications your team can in 48hs.",
             "primaryLanguage": {
-                "name": "erlang"
+                "name": "elixir"
             },
             "projectsUrl": "https://spawnfest.github.io/",
             "image": "card-spawnfest.jpg"
